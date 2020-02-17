@@ -1,0 +1,6 @@
+C:\Users\giles\source\repos\UnitTesting\Models\bin\Debug\Models.exe.config
+C:\Users\giles\source\repos\UnitTesting\Models\bin\Debug\Models.exe
+C:\Users\giles\source\repos\UnitTesting\Models\bin\Debug\Models.pdb
+C:\Users\giles\source\repos\UnitTesting\Models\obj\Debug\LabTaskModels.csproj.CoreCompileInputs.cache
+C:\Users\giles\source\repos\UnitTesting\Models\obj\Debug\Models.exe
+C:\Users\giles\source\repos\UnitTesting\Models\obj\Debug\Models.pdb

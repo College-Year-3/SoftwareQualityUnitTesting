@@ -1,0 +1,10 @@
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\HelloWorldCore.deps.json
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\HelloWorldCore.runtimeconfig.json
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\HelloWorldCore.runtimeconfig.dev.json
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\HelloWorldCore.dll
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\HelloWorldCore.pdb
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\HelloWorldCore.csproj.CoreCompileInputs.cache
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\HelloWorldCore.AssemblyInfoInputs.cache
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\HelloWorldCore.AssemblyInfo.cs
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\HelloWorldCore.dll
+C:\Users\giles\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\HelloWorldCore.pdb

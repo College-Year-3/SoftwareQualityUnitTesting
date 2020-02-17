@@ -1,0 +1,11 @@
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\nunit.framework.dll
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\nunit.framework.pdb
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\nunit.framework.xml
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorld.pdb

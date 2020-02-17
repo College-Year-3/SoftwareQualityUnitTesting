@@ -1,0 +1,7 @@
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\bin\Debug\LabTaskCore.exe.config
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\bin\Debug\LabTaskCore.exe
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\bin\Debug\LabTaskCore.pdb
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskCore.csprojAssemblyReference.cache
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskCore.csproj.CoreCompileInputs.cache
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskCore.exe
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskCore.pdb
