@@ -31,5 +31,14 @@ namespace LabTaskConsole
             return result;
 
         }
+
+        public static double WithdrawFunds(double balance, double amount)
+        {
+            double result = 0;
+
+            result = balance - amount;
+
+            return result;
+        }
     }
 }

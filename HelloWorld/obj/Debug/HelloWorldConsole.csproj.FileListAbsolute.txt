@@ -4,6 +4,7 @@ C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\nunit.framework.dll
 C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\nunit.framework.pdb
 C:\Users\giles\source\repos\UnitTesting\HelloWorld\bin\Debug\nunit.framework.xml
+C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorldConsole.csprojAssemblyReference.cache
 C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorldConsole.csproj.CoreCompileInputs.cache
 C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorldConsole.csproj.CopyComplete
 C:\Users\giles\source\repos\UnitTesting\HelloWorld\obj\Debug\HelloWorld.exe

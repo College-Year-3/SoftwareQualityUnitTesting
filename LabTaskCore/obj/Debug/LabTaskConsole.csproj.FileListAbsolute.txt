@@ -4,6 +4,7 @@ C:\Users\giles\source\repos\UnitTesting\LabTaskCore\bin\Debug\LabTaskCore.pdb
 C:\Users\giles\source\repos\UnitTesting\LabTaskCore\bin\Debug\nunit.framework.dll
 C:\Users\giles\source\repos\UnitTesting\LabTaskCore\bin\Debug\nunit.framework.pdb
 C:\Users\giles\source\repos\UnitTesting\LabTaskCore\bin\Debug\nunit.framework.xml
+C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskConsole.csprojAssemblyReference.cache
 C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskConsole.csproj.CoreCompileInputs.cache
 C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskConsole.csproj.CopyComplete
 C:\Users\giles\source\repos\UnitTesting\LabTaskCore\obj\Debug\LabTaskCore.exe

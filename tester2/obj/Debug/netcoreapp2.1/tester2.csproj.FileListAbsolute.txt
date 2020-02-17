@@ -3,6 +3,7 @@ C:\Users\giles\source\repos\UnitTesting\tester2\bin\Debug\netcoreapp2.1\tester2.
 C:\Users\giles\source\repos\UnitTesting\tester2\bin\Debug\netcoreapp2.1\tester2.runtimeconfig.dev.json
 C:\Users\giles\source\repos\UnitTesting\tester2\bin\Debug\netcoreapp2.1\tester2.dll
 C:\Users\giles\source\repos\UnitTesting\tester2\bin\Debug\netcoreapp2.1\tester2.pdb
+C:\Users\giles\source\repos\UnitTesting\tester2\obj\Debug\netcoreapp2.1\tester2.csprojAssemblyReference.cache
 C:\Users\giles\source\repos\UnitTesting\tester2\obj\Debug\netcoreapp2.1\tester2.csproj.CoreCompileInputs.cache
 C:\Users\giles\source\repos\UnitTesting\tester2\obj\Debug\netcoreapp2.1\tester2.AssemblyInfoInputs.cache
 C:\Users\giles\source\repos\UnitTesting\tester2\obj\Debug\netcoreapp2.1\tester2.AssemblyInfo.cs
